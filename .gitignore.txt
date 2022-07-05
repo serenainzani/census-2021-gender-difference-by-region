@@ -1,2 +1,0 @@
-.ipynb_checkpoints
-census2021firstresults.xlsx
